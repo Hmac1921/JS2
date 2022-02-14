@@ -5,4 +5,5 @@ console.log('ahhhh ahhhhhhhhh');
 console.log('AhHhHhHhHhHhHh');
 console.log('AHHHHHHHHHHH');
 
-alert('HALLOJ!');
+alert('Olivia testar');
+console.log('testelitest');

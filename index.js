@@ -4,3 +4,5 @@ console.log('ah');
 console.log('ahhhh ahhhhhhhhh');
 console.log('AhHhHhHhHhHhHh');
 console.log('AHHHHHHHHHHH');
+
+alert('HALLOJ!');
